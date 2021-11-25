@@ -1,0 +1,33 @@
+.bookContainer{
+
+    margin: auto;
+    width:80%;
+    
+}
+
+h2{
+
+    text-align:center;
+}
+.subtitle{
+    text-align:center;
+
+}
+
+
+.book-container{
+
+    padding:10px;
+    width:50%;
+    margin: 0 auto;
+    margin-bottom:10px;
+    display: flex;
+    justify-content:space-between;
+    background-color: aqua;
+}
+.star{
+
+    padding:3px;
+    
+
+}
